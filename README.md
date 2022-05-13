@@ -28,7 +28,7 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 **Bishal** Communication, Teamwork, Collaboration
 
-**Roger** 
+**Roger** Problem Solving, Communication
 
 **Cole** Verbal Communication, Networking, Collaboration
 
@@ -53,7 +53,7 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 * **Availability**
   * Jacob 9AM-4PM (after hours if needed)
   * Bishal 9AM-4PM (after hours if needed)
-  * Roger 
+  * Roger 9:00 AM - 6:00PM
   * Cole 9AM - 6PM (hard stop at 6PM; can come back at 8PM or 9PM if needed)
   * Tai 9:00- 16:00 - After Hours Via Slack -> Emergencies Text Me
  
@@ -73,14 +73,6 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 * Everyone will be sharing at stand up and stand down.
 * Frame responses with mutual respect.
-
-## DEI
-
-* Jacob wants to speak up in challenging situations
-* Bishal
-* Roger
-* Cole
-* Tai
   
 ## Work Plan
 
