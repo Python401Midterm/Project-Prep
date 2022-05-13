@@ -65,9 +65,9 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 * As needed but will have planned lunch
 * If we start to fall behind?
-  * Reevaluate what is MVP for us
+* Reevaluate what is MVP for us
 * Communication on off hours
-  * Slack
+* Slack
 
 ### Making sure to hear all voices
 
@@ -77,10 +77,10 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 ## DEI
 
 * Jacob wants to speak up in challenging situations
-  * Bishal
-  * Roger
-  * Cole
-  * Tai
+* Bishal
+* Roger
+* Cole
+* Tai
   
 ## Work Plan
 
