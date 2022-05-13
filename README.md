@@ -88,7 +88,6 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 ## Presentation Deck
 
-https://docs.google.com/presentation/d/14Ddek1QGvUZX6_DxkPjK0osDrVkgatg1pWTKrCBmVcI/edit?usp=sharing
 
 * **Git Process**
   * Project will live on the GitHub
