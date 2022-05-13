@@ -2,7 +2,7 @@
 
 ## 401 Mid-Term Project - TBD
 
-Jacob Choi, Bishal Khanal, Roger Wells, Cole Gibbs
+Jacob Choi, Bishal Khanal, Roger Wells, Cole Gibbs, Tyler Egashira
 
 ## Cooperation Plan
 
@@ -15,6 +15,8 @@ Jacob Choi, Bishal Khanal, Roger Wells, Cole Gibbs
 **Roger** 
 
 **Cole** 
+
+**Tai** 
 
 **How are we going to utilize these strengths?**
 
@@ -30,6 +32,7 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 **Cole** 
 
+**Tai**
 
 ### Day to day work schedule
 
@@ -52,7 +55,7 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
   * Bishal
   * Roger
   * Cole
-
+  * Tai
  
 * **Communication Platforms?**
   * Slack
@@ -77,7 +80,8 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
   * Bishal
   * Roger
   * Cole
-
+  * Tai
+  
 ## Work Plan
 
 * **Tools for collaboration and workflow**
