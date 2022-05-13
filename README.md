@@ -23,8 +23,11 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 **What professional competencies do you want work on?**
 
 **Jacob** wants to work on communication and confidence in technical skills
+
 **Bishal** 
+
 **Roger** 
+
 **Cole** 
 
 
