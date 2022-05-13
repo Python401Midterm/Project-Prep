@@ -10,13 +10,13 @@ Jacob Choi, Bishal Khanal, Roger Wells, Cole Gibbs, Tyler Egashira
 
 **Jacob** Program Management, JavaScript, Creative, Communication, Team Building
 
-**Bishal** 
+**Bishal** Research, Debugging, Critical-Thinking
 
-**Roger** 
+**Roger** Conceptualization, Planning, UI
 
-**Cole** 
+**Cole** Organization and Planning 
 
-**Tai** 
+**Tai** Debugging, Merge conflicts, Raw code analysis, Research and implementation, Conflict mediation and resolution. 
 
 **How are we going to utilize these strengths?**
 
@@ -26,13 +26,13 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 **Jacob** wants to work on communication and confidence in technical skills
 
-**Bishal** 
+**Bishal** Communication, Teamwork, Collaboration
 
 **Roger** 
 
-**Cole** 
+**Cole** Verbal Communication, Networking, Collaboration
 
-**Tai**
+**Tai** Creative Problem Solving, Communication, Handling Ambiguity
 
 ### Day to day work schedule
 
@@ -52,10 +52,10 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
 
 * **Availability**
   * Jacob 9AM-4PM (after hours if needed)
-  * Bishal
-  * Roger
-  * Cole
-  * Tai
+  * Bishal 9AM-4PM (after hours if needed)
+  * Roger 
+  * Cole 9AM - 6PM (hard stop at 6PM; can come back at 8PM or 9PM if needed)
+  * Tai 9:00- 16:00 - After Hours Via Slack -> Emergencies Text Me
  
 * **Communication Platforms?**
   * Slack
@@ -90,7 +90,7 @@ We're going to learn how best utilize our strengths and weaknesses by forthright
   * Assign tasks if members are using Pycharm vs Visual-Studio Code
 
 **Project Management Tool Link:**
-
+- https://trello.com/b/AAe3LLhV/401-midterm-project
 
 
 ## Presentation Deck
