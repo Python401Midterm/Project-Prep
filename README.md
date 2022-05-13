@@ -9,8 +9,11 @@ Jacob Choi, Bishal Khanal, Roger Wells, Cole Gibbs
 ### Team Key Strengths?
 
 **Jacob** Program Management, JavaScript, Creative, Communication, Team Building
+
 **Bishal** 
+
 **Roger** 
+
 **Cole** 
 
 **How are we going to utilize these strengths?**
